@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Pagina principal</title>
+	<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+	<div id="main">
+
+		<section id="top">
+			<div class="container">
+			<h1>Bienvenidos a nuestra página pincipal</h1>
+	<a href="ejercicio2.html">Enlace al ejercicio 2</a>
+	<a href="ejercicio3.html">Enlace al ejercicio 3</a>
+			</div>
+		</section>
+	</div>	
+	
+</body>
+</html>

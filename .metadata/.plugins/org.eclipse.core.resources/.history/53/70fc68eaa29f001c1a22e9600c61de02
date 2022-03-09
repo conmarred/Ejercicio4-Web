@@ -1,0 +1,64 @@
+@import url("fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+
+/* Basic */
+
+html {
+	box-sizing: border-box;
+}
+
+
+body {
+	background: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 19pt;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+h1 {
+	font-weight: 300;
+	color: #666;
+	line-height: 1.5em;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 100%;
+	width: 1400px;
+}
+
+/* Header */
+
+#header {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: #db8b12;
+    color: #fff;
+    height: 100%;
+    left: 0;
+    overflow-y: auto;
+    position: fixed;
+    text-align: left;
+    top: 0;
+    width: 375px;
+}
+
+    #header .top {
+        flex-grow: 1;
+    }
+/* Main */
+#main {
+    margin-left: 375px;
+}
+
+    #main > section {
+        margin: 0;
+        overflow: hidden;
+        padding: 4em 0;
+        text-align: center;
+    }
+    

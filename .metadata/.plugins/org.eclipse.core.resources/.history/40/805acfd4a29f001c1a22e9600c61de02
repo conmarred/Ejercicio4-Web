@@ -1,0 +1,24 @@
+@import url("fontawesome-all.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+
+/* Basic */
+
+html {
+	box-sizing: border-box;
+}
+
+
+body {
+	background: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 19pt;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+h1 {
+	font-weight: 300;
+	color: #666;
+	line-height: 1.5em;
+}
